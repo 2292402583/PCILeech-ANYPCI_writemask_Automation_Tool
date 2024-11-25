@@ -31,3 +31,4 @@ How It Works
 ![@SU%`GL29U 0 776$P${XFF](https://github.com/user-attachments/assets/3164205e-412a-4229-9b32-d91d64027bce)
 
 ![F7)YG0U)UI3K0OC_6CW2 D7](https://github.com/user-attachments/assets/c8ac7df7-26ce-4474-8930-3a2e902d2100)
+![image](https://github.com/user-attachments/assets/6c1a0fc6-3ce8-46de-a742-4c59885c2659)
