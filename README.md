@@ -32,3 +32,21 @@ How It Works
 
 ![F7)YG0U)UI3K0OC_6CW2 D7](https://github.com/user-attachments/assets/c8ac7df7-26ce-4474-8930-3a2e902d2100)
 ![image](https://github.com/user-attachments/assets/6c1a0fc6-3ce8-46de-a742-4c59885c2659)
+
+
+What is Writemask?????????????????????
+WRITEMASK is an advanced feature in the CFGSPACE module of PCILEECH, designed to control the read and write capabilities of each bit in the PCI configuration space. This functionality allows users to precisely manage which bits can be read or written, enhancing the control over PCI device configuration.
+
+Key Features
+Read/Write Control: WRITEMASK enables users to specify which bits are read-only and which are read/write, thereby preventing unintended writes and protecting critical configuration registers.
+
+Bit-Level Management: With bit-level control, users can ensure that each bit's state and behavior align with expected outcomes, contributing to system stability and security.
+
+
+WRITEMASK 是 PCILEECH 中的 CFGSPACE 模块的一个扩展功能，专门用于控制配置空间中每一个比特的可读写性。通过这个功能，用户可以精确地管理配置空间中各个比特位的读写权限。
+
+功能描述
+读写控制：WRITEMASK 允许用户设置哪些位是只读的，哪些位是可读写的。这样，用户可以防止误写或保护特定配置寄存器的内容。
+
+位级控制：通过位级控制，用户可以确保每个位的状态和行为都是预期的，有助于提高系统的稳定性和安全性。
+
