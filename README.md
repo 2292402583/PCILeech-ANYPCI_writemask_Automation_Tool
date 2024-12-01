@@ -3,6 +3,7 @@
 
 
 已知BUG MSI能力区域由于复位的特殊性会造成错误的将寄存器识别为不可写，因此此工具，用于完成你百分之70%的测试工作，进一步测试请移步视频教程。
+如果你在使用此脚本时，导致设备无法加载的情况，请将设备断电1分钟，（通常笔记本可以按住电源键1分钟）方可恢复。
 
 
 （R/W,BIT MASK)【DMA固件之writemask真实值探测脚本使用教程】 【DMA固件制作进阶之任意PCI设备writemask提取与验证。-哔哩哔哩】 https://b23.tv/11twD5Y
@@ -18,12 +19,13 @@ User-Controlled Operations: Offers flexibility for users to skip or perform test
 
 Detailed Logging: Generates comprehensive reports and logs, making it easier to track and analyze test results.
 
-Little-Endian Conversion: Accurately converts data to little-endian format, adhering to PCIe standards.
 
-Error Handling: Includes robust error handling to maintain stability and reliability during operations.
 
 Known Bug
 There is a known bug in the MSI capability area due to reset peculiarities, which may incorrectly identify registers as non-writable. As such, this tool can cover approximately 70% of your testing work. For further testing, please refer to the video tutorials.
+
+If using this script causes the device to fail to load, please power off the device for 1 minute (for laptops, usually hold the power button for 1 minute) to restore it.
+
 
 How It Works
 
