@@ -35,6 +35,8 @@ How It Works
 ![F7)YG0U)UI3K0OC_6CW2 D7](https://github.com/user-attachments/assets/c8ac7df7-26ce-4474-8930-3a2e902d2100)
 ![image](https://github.com/user-attachments/assets/6c1a0fc6-3ce8-46de-a742-4c59885c2659)
 
+![20241202005123](https://github.com/user-attachments/assets/988e70a9-741b-4750-a156-99b097be7467)
+
 
 What is Writemask?????????????????????
 WRITEMASK is an advanced feature in the CFGSPACE module of PCILEECH, designed to control the read and write capabilities of each bit in the PCI configuration space. This functionality allows users to precisely manage which bits can be read or written, enhancing the control over PCI device configuration.
